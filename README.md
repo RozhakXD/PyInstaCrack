@@ -32,11 +32,11 @@ $ ./Prem
 
 ### Termux - [Beta](https://drive.google.com/file/d/16tGUyiYFENuhoyp-eRdKlvlMqMnFrkGK/view?usp=drive_link) 🐺
 ```
-$ pkg update -y && pkg upgrade -y
-$ pkg install git python-pip
-$ git clone --depth 1 https://github.com/RozhakXD/PyInstaCrack.git
-$ cd "PyInstaCrack/Premium"
-$ pip install requests
+$ pkg install python-pip wget
+$ wget https://github.com/RozhakXD/PyInstaCrack/releases/download/v0.1.0/PyInstaHacks.zip - O PyInstaHacks.zip
+$ unzip PyInstaHacks.zip
+$ cd "PyInstaHacks"
+$ pip install -r requirements.txt
 $ chmod +x Prem
 $ ./Prem
 ```
