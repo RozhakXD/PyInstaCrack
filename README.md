@@ -15,12 +15,7 @@ Dengan manipulasi header dan parameter acak, PyInstaCrack beroperasi dalam _stea
 
 ## ✨ Fitur Utama
 
-* 🍪 **Stealth Cookie Login:** Login cerdas berbasis _cookies_ untuk ekstrak data _followers_ dan _followings_ tanpa risiko blokir, operasi senyap maksimal.
-* 🔄 **Auto-Adaptive AI:** Algoritma AI otomatis menyesuaikan diri dengan update keamanan Instagram, menjaga tools tetap tak terhentikan.
-* 🔐 **9 Metode Brute-Force:** Sembilan teknik _brute-force_ canggih dengan manipulasi parameter, anti-deteksi, dan daya tembus tinggi.
-* ⚙️ **Android-Ready:** Dukung Termux, UserLand, dan Pydroid 3 untuk _hacking_ optimal di platform Android.
-* 📱 **Dynamic User-Agent:** Otomatis ciptakan _user-agent_ perangkat terbaru untuk kedok _stealth_ yang sempurna di setiap serangan.
-* 🤖 **AI-Optimized Attacks:** AI tingkatkan efisiensi _wordlist_ dan _brute-force_, lewati kata sandi invalid seperti emoji atau >255 karakter.
+PyInstaCrack dirancang untuk operasi senyap melalui login berbasis _cookies_ yang mengekstrak data tanpa memicu deteksi. Algoritma AI adaptif memastikan kompatibilitas terhadap pembaruan keamanan, sementara sembilan metode _brute-force_ anti-deteksi, dukungan penuh Android (Termux, UserLand, Pydroid 3), dan _user-agent_ dinamis menjaga anonimitas. AI internal juga memfilter kata sandi tidak valid seperti karakter berlebih atau simbol khusus.
 
 ## 📦 Installation
 
@@ -31,7 +26,7 @@ $ pkg update -y && pkg upgrade -y
 $ pkg install clang python-pip libffi openssl libsodium binutils build-essential rust
 $ apt install python-cryptography
 $ SODIUM_INSTALL=system pip install pynacl
-$ git clone --depth 1 https://github.com/RozhakXD/PyInstaCrack.git
+$ git clone --depth 1 https://github.com/RozhakDev/PyInstaCrack.git
 $ cd "PyInstaCrack"
 $ pip install -r requirements.txt
 $ chmod +x Prem
@@ -42,7 +37,7 @@ $ ./Prem
 
 ```
 $ pkg install python-pip wget
-$ wget https://github.com/RozhakXD/PyInstaCrack/releases/download/v0.1.0/PyInstaHacks.zip - O PyInstaHacks.zip
+$ wget https://github.com/RozhakDev/PyInstaCrack/releases/download/v0.1.0/PyInstaHacks.zip - O PyInstaHacks.zip
 $ unzip PyInstaHacks.zip
 $ cd "PyInstaHacks"
 $ pip install -r requirements.txt
@@ -52,17 +47,11 @@ $ ./Prem
 
 ## 📊 Statistik Penggunaan
 
-- **Jumlah Pengguna Aktif**: Tools ini digunakan oleh lebih dari **79.097 pengguna** di seluruh dunia.
-- **Frekuensi Penggunaan**: Rata-rata, alat ini digunakan **500 kali** per bulan.
-- **Feedback Pengguna**: Kami mendapatkan umpan balik positif dari **80% pengguna** yang menyatakan bahwa alat ini membantu mereka.
-- **Peningkatan Fitur**: Sejak peluncuran, kami telah menambahkan **15 fitur baru** berdasarkan saran pengguna.
+Dengan basis lebih dari **79.097 pengguna aktif** di seluruh dunia dan rata-rata **500 eksekusi per bulan**, PyInstaCrack telah membuktikan konsistensinya di medan nyata. Sebanyak **80% pengguna** melaporkan hasil positif, sementara 15 fitur baru telah diintegrasikan sejak peluncuran — sebagian besar berdasarkan masukan komunitas yang memahami kekuatan alat ini.
 
 ## 🔒 Keamanan
 
-- **Pembaruan Keamanan**: Kami secara rutin melakukan pembaruan keamanan untuk mengatasi potensi kerentanan dan memastikan bahwa alat tetap aman digunakan.
-- **Enkripsi Data**: Data yang dikirim dan diterima menggunakan enkripsi yang kuat untuk melindungi informasi sensitif dari akses tidak sah.
-- **Privasi Data**: Kami berkomitmen untuk menjaga privasi data pengguna. Semua data yang dikumpulkan melalui alat ini tidak akan dibagikan dengan pihak ketiga tanpa izin eksplisit dari pengguna.
-- **Panduan Keamanan**: Kami menyarankan pengguna untuk tidak menggunakan alat ini pada akun yang sensitif dan untuk selalu menjaga informasi login mereka dengan aman.
+Setiap potensi celah keamanan ditutup melalui pembaruan rutin yang agresif, memastikan ketahanan terhadap eksploitasi. Semua lalu lintas data dilindungi oleh enkripsi tingkat tinggi, dan kebijakan privasi ketat menjamin tidak ada informasi yang dibagikan ke pihak ketiga tanpa izin eksplisit. Pengguna diingatkan untuk menghindari penggunaan pada akun sensitif dan menjaga kredensial login mereka seaman mungkin.
 
 ## 📸 Tangkapan Layar
 
@@ -80,7 +69,7 @@ Penggunaan alat ini sepenuhnya menjadi tanggung jawab pengguna. Pengembang tidak
 
 ## 🤝 Kontribusi
 
-Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin membantu mengembangkan alat ini, silakan buka [Issues](https://github.com/RozhakXD/Premium/issues) atau buat [Pull Requests](https://github.com/RozhakXD/Premium/pulls).
+Kami sangat menghargai kontribusi dari komunitas! Jika Anda ingin membantu mengembangkan alat ini, silakan buka [Issues](https://github.com/RozhakDev/Premium/issues) atau buat [Pull Requests](https://github.com/RozhakDev/Premium/pulls).
 
 ## 📜 Lisensi
 
